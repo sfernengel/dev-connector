@@ -9,5 +9,3 @@ coverage
 build/
 .env
 public/
-yarn.lock
-package-lock.json
